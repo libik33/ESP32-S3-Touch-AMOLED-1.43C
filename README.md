@@ -3,7 +3,7 @@
 中文wiki链接: https://docs.waveshare.net/ESP32-S3-Touch-AMOLED-1.43C<br>
 Product English wiki link: https://docs.waveshare.com/ESP32-S3-Touch-AMOLED-1.43C<br>
 
-# Arduino example Tools configuration
+# Arduino example Tools configuration 
 ![alt text](<Tools Configuration.png>)
 
 ## Change log
