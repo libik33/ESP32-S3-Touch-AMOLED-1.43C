@@ -1,4 +1,4 @@
-# ESP32-S3-Touch-AMOLED-1.43C
+# ESP32-S3-Touch-AOLED-1.43C
 
 中文wiki链接: https://docs.waveshare.net/ESP32-S3-Touch-AMOLED-1.43C<br>
 Product English wiki link: https://docs.waveshare.com/ESP32-S3-Touch-AMOLED-1.43C<br>
